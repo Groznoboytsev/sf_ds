@@ -6,7 +6,6 @@ from itertools import count
 import numpy as np
 
 
-
 def random_predict (number:int=np.random.randint(1,101)) ->int:
     """Guesses the number in the minimum number of attempts
 
